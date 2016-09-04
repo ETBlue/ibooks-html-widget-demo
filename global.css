@@ -1,0 +1,9 @@
+[data-type="bubble"] {
+  display: none;
+  padding: 1rem;
+  border: 1px #ccc solid;
+}
+
+[data-action="toggle"] {
+  padding: 1rem;
+}
